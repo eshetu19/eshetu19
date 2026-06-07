@@ -136,5 +136,3 @@ Focus :
 - GitHub: https://github.com/eshetu19/
 - LinkedIn: https://et.linkedin.com/in/eshetu-tsegaye-bb91aa337
 - Email: eshetutsegaye124@gmail.com
-- Learn Docker and CI/CD fundamentals
-- Contribute to open-source projects
